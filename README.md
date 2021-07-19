@@ -1,6 +1,6 @@
 ### stats
-[![Voidoffi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voidoffi)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voidoffi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Voidoffi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voidoffi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voidoffi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### links
 [![Fiverr](https://img.shields.io/static/v1?label=%20&message=Fiverr&color=success&style=flat)](https://www.fiverr.com/silensteam?up_rollout=true)
