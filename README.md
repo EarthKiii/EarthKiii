@@ -1,5 +1,5 @@
 ### stats
-[![Voidoffi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voidoffi&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Voidoffi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voidoffi&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voidoffi&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ### links
