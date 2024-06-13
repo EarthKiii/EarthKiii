@@ -12,9 +12,9 @@
 https://github.com/HubbleTeam
 
 ```stl
-solid \"cube_corner\"
+solid cube_corner
   facet normal 0.0 -1.0 0.0
-    outer loop
+    outer loop3
       vertex 0.0 0.0 0.0
       vertex 1.0 0.0 0.0
       vertex 0.0 0.0 1.0
@@ -88,7 +88,7 @@ endsolid
       "id": 1,
       "properties": {
         "ID": 0,
-        "name": "\\"Alabama\\"
+        "name": "\"Alabama"
       },
       "geometry": {
         "type": "Polygon",
