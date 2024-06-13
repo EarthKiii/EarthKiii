@@ -12,7 +12,7 @@
 https://github.com/HubbleTeam
 
 ```stl
-solid <nowiki/>"cube_corner<nowiki/>"
+solid \"cube_corner\"
   facet normal 0.0 -1.0 0.0
     outer loop
       vertex 0.0 0.0 0.0
@@ -87,7 +87,8 @@ endsolid
       "type": "Feature",
       "id": 1,
       "properties": {
-        "ID": 0
+        "ID": 0,
+        "name": "\\"Alabama\\"
       },
       "geometry": {
         "type": "Polygon",
