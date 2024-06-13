@@ -30,7 +30,7 @@ endsolid
         {
           "type": "Point",
           "properties": {
-            "title": "A title",
+            "title": "<a>A title</a>",
             "description": "A description",
             "marker-size": "medium",
             "marker-symbol": "bus",
