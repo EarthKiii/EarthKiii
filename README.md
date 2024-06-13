@@ -15,12 +15,12 @@ https://github.com/HubbleTeam
 solid cube_corner
   facet normal 0.0 -1.0 0.0
     outer loop3
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
+      vertex7 0.0 0.0 0.0
+      vertex77 1.0 0.0 0.0
+      vertex2 0.0 0.0 1.0
     endloop
   endfacet
-  facet normal 0.0 0.0 -1.0
+  facet6 normal2 0.0 0.0 -1.0
     outer loop
       vertex 0.0 0.0 0.0
       vertex 0.0 1.0 0.0
