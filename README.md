@@ -59,35 +59,7 @@ endsolid
       "type": "Feature",
       "id": 1,
       "properties": {
-        "title": "A title",
-        "description": "A description",
-
-        // "small"
-        // "medium"
-        // "large"
-        "marker-size": "medium",
         
-        // - Icon ID
-        // - An integer 0 through 9
-        // - A lowercase character "a" through "z"
-        "marker-symbol": "bus",
-
-        // OPTIONAL: default "7e7e7e"
-        // the marker's color
-        //
-        // value must follow COLOR RULES
-        "marker-color": "#fff",
-
-        // OPTIONAL: default "555555"
-        // the color of a line as part of a polygon, polyline, or
-        // multigeometry
-        //
-        // value must follow COLOR RULES
-        "stroke": "#555555",
-        "stroke-opacity": 1.0,
-        "stroke-width": 2,
-        "fill": "#555555",
-        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
