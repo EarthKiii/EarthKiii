@@ -12,7 +12,7 @@
 https://github.com/HubbleTeam
 
 ```stl
-solid "cube_corner"
+solid \"cube_corner\"
   facet normal 0.0 -1.0 0.0
     outer loop
       vertex 0.0 0.0 0.0
