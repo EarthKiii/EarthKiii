@@ -23,7 +23,7 @@ endsolid
     "scale": [0.0005000500050005, 0.00010001000100010001],
     "translate": [100, 0]
   },
-  "\\objects": {
+  "objects": {
     "example": {
       "type": "GeometryCollection",
       "geometries": [
@@ -39,7 +39,7 @@ endsolid
         },
         {
           "type": "Polygon",
-          "properties": {"prop0": "value0",
+          "properties": {"prop0": ""value0",
             "prop1": {"this": "that"}
           },
           "arcs": [[1]]
