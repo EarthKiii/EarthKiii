@@ -39,10 +39,10 @@ endsolid
         },
         {
           "type": "Polygon",
-          "properties": {"prop0": ""value0",
+          "properties": {"prop0": "value0",
             "prop1": {"this": "that"}
           },
-          "arcs": [[1]]
+          "arcs": [["1"]]
         }
       ]
     }
