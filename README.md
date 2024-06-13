@@ -11,15 +11,8 @@
 #### Hubble
 https://github.com/HubbleTeam
 
-=begin html
-
-=encoding utf8
-Z<><pre>55555555</pre>
-
-=end html
-
 ```stl
-solid cube_corner
+solid "cube_corner"
   facet normal 0.0 -1.0 0.0
     outer loop
       vertex 0.0 0.0 0.0
