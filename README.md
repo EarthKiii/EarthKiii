@@ -59,7 +59,16 @@ endsolid
       "type": "Feature",
       "id": 1,
       "properties": {
-        
+        "title": "A title",
+        "description": "A description",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "marker-color": "#fff",
+        "stroke": "#555555",
+        "stroke-opacity": 1.0,
+        "stroke-width": 2,
+        "fill": "#555555",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
