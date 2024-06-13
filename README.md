@@ -29,18 +29,49 @@ endsolid
       "geometries": [
         {
           "type": "Point",
-          "properties": {"prop0": "value0"},
+          "properties": {
+            "title": "A title",
+            "description": "A description",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#fff",
+            "stroke": "#555555",
+            "stroke-opacity": 1.0,
+            "stroke-width": 2,
+            "fill": "#555555",
+            "fill-opacity": 0.5
+          },
           "coordinates": [4000, 5000]
         },
         {
           "type": "LineString",
-          "properties": {"prop0": "value0", "prop1": 0},
+          "properties": {
+            "title": "A title",
+            "description": "A description",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#fff",
+            "stroke": "#555555",
+            "stroke-opacity": 1.0,
+            "stroke-width": 2,
+            "fill": "#555555",
+            "fill-opacity": 0.5
+          },
           "arcs": [0]
         },
         {
           "type": "Polygon",
-          "properties": {"prop0": "value0",
-            "prop1": {"this": "that"}
+          "properties": {
+            "title": "A title",
+            "description": "A description",
+            "marker-size": "medium",
+            "marker-symbol": "bus",
+            "marker-color": "#fff",
+            "stroke": "#555555",
+            "stroke-opacity": 1.0,
+            "stroke-width": 2,
+            "fill": "#555555",
+            "fill-opacity": 0.5
           },
           "arcs": [["1"]]
         }
