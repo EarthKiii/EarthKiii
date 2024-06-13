@@ -12,7 +12,11 @@
 https://github.com/HubbleTeam
 
 ```stl
-\\
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    \\
+  endfacet
+endsolid
 ```
 
 ```topojson
