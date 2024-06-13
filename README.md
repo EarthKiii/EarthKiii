@@ -12,10 +12,7 @@
 https://github.com/HubbleTeam
 
 ```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
-    \\
-  endfacet
+solid """
 endsolid
 ```
 
@@ -26,7 +23,7 @@ endsolid
     "scale": [0.0005000500050005, 0.00010001000100010001],
     "translate": [100, 0]
   },
-  "objects": {
+  "\\objects": {
     "example": {
       "type": "GeometryCollection",
       "geometries": [
